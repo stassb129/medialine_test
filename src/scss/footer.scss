@@ -1,0 +1,24 @@
+.footer{
+  margin-top: 86px;
+  background-color: #53565A;
+  padding: 50px;
+  color: white;
+  font-family: Proxima Nova Lt;
+}
+
+.copyright{
+  font-size: 15px;
+  line-height: 18px;
+  max-width: 80%;
+  @media (min-width: 1367px) {
+    max-width: 60%;
+  }
+}
+.name_company{
+  color: #c6cad0;
+}
+
+.company_link{
+  color: $green;
+  text-decoration: underline;
+}
